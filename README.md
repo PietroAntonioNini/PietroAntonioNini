@@ -1,6 +1,22 @@
-## Ciao a tutti! 👋
+## Ciao a tutti! 👋 
 
-#### Sono un Full-Stack Web Developer ⚙️
+#### Sono un Full-Stack Web Developer ⚙️ 
+
+<a href="https://www.linkedin.com/in/pietro-antonio-nini-2061241a9/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pietroantonio.nini@outlook.com">
+  <img alt="Outlook" src="https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/+393383448922">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+
+
+
 
 ## Le mie competenze principali sono: 
 <img src="https://github.com/PietroAntonioNini/PietroAntonioNini/assets/151193470/34c1f358-2f83-44c3-a50c-8b43fcd3ebba" alt="php" style="width:50px">
@@ -18,6 +34,10 @@
 
 ### Linguaggi più usati 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroAntonioNini&layout=compact&hide=blade)](https://github.com/PietroAntonioNini/github-readme-stats)
+
+
+
+
 
 
 
