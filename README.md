@@ -22,9 +22,9 @@ Mi chiamo **Pietro Antonio** e attualmente lavoro come **Front-End Web Developer
 
 ## Le mie competenze principali
 
+<img src="https://github.com/PietroAntonioNini/PietroAntonioNini/assets/151193470/a7e94e78-2687-44bd-9ac7-e9bcf29f8edc" alt="Angular" style="width:50px">
 <img src="https://github.com/PietroAntonioNini/PietroAntonioNini/assets/151193470/34c1f358-2f83-44c3-a50c-8b43fcd3ebba" alt="Vue.js" style="width:50px">
 <img src="https://github.com/PietroAntonioNini/PietroAntonioNini/assets/151193470/e6099917-4325-46cb-b82b-de5eb81138c2" alt="Laravel" style="width:50px">
-<img src="https://github.com/PietroAntonioNini/PietroAntonioNini/assets/151193470/a7e94e78-2687-44bd-9ac7-e9bcf29f8edc" alt="Angular" style="width:50px">
 <img src="https://github.com/PietroAntonioNini/PietroAntonioNini/assets/151193470/549b31a2-2236-448b-9470-acb191b6dea7" alt="Ionic" style="width:50px">
 <img src="https://github.com/PietroAntonioNini/PietroAntonioNini/assets/151193470/7a4c5c37-b627-470e-b2ca-cd3cfbefb853" alt="JavaScript" style="width:50px">
 <img src="https://github.com/PietroAntonioNini/PietroAntonioNini/assets/151193470/04b9580f-5db3-473d-bea7-9d9e7d0c6199" alt="TypeScript" style="width:50px">
@@ -41,23 +41,22 @@ Mi chiamo **Pietro Antonio** e attualmente lavoro come **Front-End Web Developer
    - **Frontend**: Angular, RxJS, Bootstrap (SCSS), Angular Material  
    - **Backend**: Python, FastAPI, Pydantic, SQLAlchemy  
    - Funzionalità: gestione inquilini, appartamenti, contratti di locazione, scadenze e metodi di pagamento, statistiche sui consumi. Calcolo automatico dei costi aggiuntivi in base alle letture.  
-   - **Link Repository Frontend**: [Repo Angular](#)  
-   - **Link Repository Backend**: [Repo FastAPI](#)
+   - **Link Repository Frontend**: [Repo Angular](https://github.com/PietroAntonioNini/Agriturismo_Frontend)  
+   - **Link Repository Backend**: [Repo FastAPI](https://github.com/PietroAntonioNini/Agriturismo_Backend)
 
 2. **Progetto Portfolio**  
    - **Frontend**: Angular, RxJS, Bootstrap (SCSS)  
    - **Backend**: Laravel (PHP)  
    - Funzionalità: aggiunta e visualizzazione di progetti personali con tipo, categoria, foto. Sezione di contatto sul front-end pubblico.  
-   - **Link Repository Frontend**: [Repo Angular](#)  
-   - **Link Repository Backend**: [Repo Laravel](#)
+   - **Link Repository Frontend**: [Repo Angular](https://github.com/PietroAntonioNini/PortfolioFE)  
+   - **Link Repository Backend**: [Repo Laravel](https://github.com/PietroAntonioNini/laravel-api)
 
 3. **Justbool**  
    - **Backend**: Laravel (PHP)  
    - **Frontend**: Vite + Vue.js  
    - Funzionalità: gestionale completo per ristoranti (registrazione, aggiunta piatti, storico ordini), sezione pubblica per ordinare (simile a JustEat), pagamento online e invio notifiche via email al cliente e al ristorante.  
-   - **Link Repository**: [Repo Justbool](#)
-
-*(Aggiorna i link con quelli reali dei tuoi repository GitHub.)*
+   - **Link Repository**: [Repo JustboolFE](https://github.com/PietroAntonioNini/deliveroo-vue)
+   - **Link Repository**: [Repo JustboolBE](https://github.com/PietroAntonioNini/deliveroo-api)
 
 ---
 
