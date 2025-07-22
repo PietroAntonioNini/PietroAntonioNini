@@ -2,7 +2,7 @@
 
 #### Sono un Full-Stack Web Developer ⚙️
 
-Mi chiamo **Pietro Antonio** e attualmente lavoro come **Front-End Web Developer** presso **EVIN S.R.L.**, dove mi occupo di progetti legati a **Angular 19**, **RxJS** e **Ionic**. Ho completato un percorso formativo intensivo in **Boolean** e ho esperienza con virtualizzazione e cloud computing. Mi piace sperimentare nuove tecnologie e affrontare sfide sempre diverse per migliorare le mie competenze.
+Mi chiamo **Pietro Antonio** e attualmente lavoro come **Front-End Web Developer** , mi occupo di progetti legati a **Angular 19**, **RxJS** e **Ionic**. Ho completato un percorso formativo intensivo in **Boolean** e ho esperienza con virtualizzazione e cloud computing. Mi piace sperimentare nuove tecnologie e affrontare sfide sempre diverse per migliorare le mie competenze.
 
 ---
 
