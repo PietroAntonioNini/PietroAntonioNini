@@ -2,7 +2,48 @@
 
 #### Sono un Full-Stack Web Developer ⚙️
 
-Mi chiamo **Pietro Antonio** e attualmente lavoro come **Front-End Web Developer** , mi occupo di progetti legati a **Angular 19**, **RxJS** e **Ionic**. Ho completato un percorso formativo intensivo in **Boolean** e ho esperienza con virtualizzazione e cloud computing. Mi piace sperimentare nuove tecnologie e affrontare sfide sempre diverse per migliorare le mie competenze.
+# 👨‍💻 Specializzazione
+
+Sviluppatore Front-end specializzato in **Angular 19**, **TypeScript**, **RxJS** e **Ionic**, con competenze full-stack che spaziano dal frontend al backend e all'automazione dei processi.
+
+---
+
+## 🚀 Percorso professionale
+
+Ho iniziato la mia carriera presso una software house italiana, dove ho contribuito allo sviluppo di applicazioni CRM per la Pubblica Amministrazione e piattaforme web e mobile.  
+Attualmente lavoro come sviluppatore presso [Rubidia S.R.L.](https://www.rubidia.it/), azienda con oltre 30 anni di esperienza nel settore broadcasting, che sviluppa soluzioni software avanzate per l'automazione dei processi televisivi e radiofonici.  
+In Rubidia contribuisco alla realizzazione di sistemi per **Media Asset Manager**, **Newsroom**, **Playout automation** e **HbbTV**, collaborando con broadcaster di tutta Italia.
+
+---
+
+## 🏆 Progetti che raccontano il mio approccio
+
+Tra i progetti che ho realizzato, ce ne sono alcuni di cui vado particolarmente fiero:
+
+- **Piattaforma di food delivery** completa, sviluppata con **Laravel** per il backend e **Vue.js** per il frontend
+- **App di messaggistica** in tempo reale, con funzionalità simili a WhatsApp
+- **Piattaforma streaming** ispirata a Netflix, con integrazione API per la gestione dei contenuti multimediali
+- **Gestionale completo per agriturismi:**  
+  - Frontend in **Angular**
+  - Backend in **Python** con **FastAPI** su database **MySQL**
+  - App mobile **Flutter** dedicata per inserire i consumi mensili degli ospiti  
+  Il sistema calcola automaticamente gli affitti, genera documenti scaricabili e pronti per l'invio direttamente dalla web app
+
+---
+
+## 💡 Quando il lavoro diventa passione
+
+Nel tempo libero non smetto di sperimentare: esploro **Angular Material**, **SCSS** e **Bootstrap** per creare interfacce sempre più coinvolgenti, mentre sul backend mi diverto con **Python** (FastAPI, Pydantic, SQLAlchemy) e **Laravel/PHP**.  
+Ho anche sviluppato competenze in virtualizzazione cloud e sicurezza di rete con **Azure**, espandendo costantemente il mio orizzonte tecnologico.
+
+---
+
+## 🌱 Cosa mi rende diverso
+
+La mia formazione in **Scienze Politiche**, unita alla passione per il mondo tech, il cinema e i videogiochi, mi ha dato una prospettiva unica nel problem-solving:  
+non vedo solo codice, ma soluzioni che migliorano l'esperienza delle persone.  
+Cerco sempre nuove sfide che mi permettano di crescere e contribuire all'innovazione nell'ecosistema dello sviluppo moderno, portando creatività e pensiero critico in ogni progetto.
+
 
 ---
 
